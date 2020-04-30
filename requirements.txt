@@ -1,0 +1,7 @@
+1. numpy
+2. pandas
+3. matplotlib
+4. pycountry
+5. seaborn
+6. plotly
+7. flask
